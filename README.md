@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tobias Gotbaum</h1>
+<h1 align="center">Hi 👋, I'm Sandalphon613</h1>
 <h3 align="center">I am from New York City in Manhattan</h3>
 
 - 🔭 I’m currently working on a [a input generated mandala system](https://github.com/Tobias-Gotbaum99/Mandala)
