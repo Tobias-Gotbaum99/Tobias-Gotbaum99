@@ -238,6 +238,12 @@
         <mxCell id="cFMcKcCD4Te3fT23bWpL-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="cFMcKcCD4Te3fT23bWpL-70" target="cFMcKcCD4Te3fT23bWpL-71" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="Faq-BriokJTAL56ZKIU4-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="cFMcKcCD4Te3fT23bWpL-70" target="cFMcKcCD4Te3fT23bWpL-95">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Faq-BriokJTAL56ZKIU4-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="cFMcKcCD4Te3fT23bWpL-70" target="Faq-BriokJTAL56ZKIU4-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="cFMcKcCD4Te3fT23bWpL-70" value="During the 14 days" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="160" y="1460" width="120" height="60" as="geometry" />
         </mxCell>
@@ -463,7 +469,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cFMcKcCD4Te3fT23bWpL-155" value="Chapter 6" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="-350" y="2790" width="120" height="60" as="geometry" />
+          <mxGeometry x="-30" y="2610" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="m9aUhqF34sa6GW5GVbDs-0" value="As you complete more missions,&amp;nbsp;&lt;div&gt;more of the people&amp;nbsp;&lt;/div&gt;&lt;div&gt;you fight have ambrosia powers.&amp;nbsp;&lt;/div&gt;&lt;div&gt;Due to the KNIGHT ramping up transformations.......... 1 Mission = 20%&amp;nbsp;&lt;/div&gt;&lt;div&gt;2 Missions 30%&lt;/div&gt;&lt;div&gt;3 Missions 40%&amp;nbsp;&lt;/div&gt;&lt;div&gt;4 Missions 50%&lt;/div&gt;&lt;div&gt;5 Missions 60%&lt;/div&gt;&lt;div&gt;6 Missions 70%&lt;/div&gt;&lt;div&gt;7 Missions 80%&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-1415" y="1590" width="585" height="200" as="geometry" />
@@ -490,12 +496,12 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="m9aUhqF34sa6GW5GVbDs-3" value="If you did all of Maleko&#39;s quest and the JESTER and SQUIRE story, you find Moshe in a jar in a lab..." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="40" y="2735" width="120" height="170" as="geometry" />
+          <mxGeometry x="-60" y="2740" width="120" height="170" as="geometry" />
         </mxCell>
         <mxCell id="m9aUhqF34sa6GW5GVbDs-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="m9aUhqF34sa6GW5GVbDs-4" target="m9aUhqF34sa6GW5GVbDs-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="m9aUhqF34sa6GW5GVbDs-4" value="Moshe Story Link" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="m9aUhqF34sa6GW5GVbDs-4" value="Moshe Story Link&lt;div&gt;Continuing Hod&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="230" y="2870" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="m9aUhqF34sa6GW5GVbDs-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="m9aUhqF34sa6GW5GVbDs-6" target="m9aUhqF34sa6GW5GVbDs-8" edge="1">
@@ -516,7 +522,7 @@
         <mxCell id="m9aUhqF34sa6GW5GVbDs-10" value="Joshua does mass&amp;nbsp;&lt;div&gt;summary Execution&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-1480" y="2130" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="oZFwcisy6KpWWESenXAK-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="m9aUhqF34sa6GW5GVbDs-14" target="oZFwcisy6KpWWESenXAK-6">
+        <mxCell id="oZFwcisy6KpWWESenXAK-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="m9aUhqF34sa6GW5GVbDs-14" target="oZFwcisy6KpWWESenXAK-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="m9aUhqF34sa6GW5GVbDs-14" value="They Attack Hamza the Imam" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
@@ -525,16 +531,16 @@
         <mxCell id="m9aUhqF34sa6GW5GVbDs-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="oZFwcisy6KpWWESenXAK-0" target="cFMcKcCD4Te3fT23bWpL-144" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="oZFwcisy6KpWWESenXAK-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="m9aUhqF34sa6GW5GVbDs-17" target="oZFwcisy6KpWWESenXAK-0">
+        <mxCell id="oZFwcisy6KpWWESenXAK-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="m9aUhqF34sa6GW5GVbDs-17" target="oZFwcisy6KpWWESenXAK-0" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-1280" y="2278" as="sourcePoint" />
             <mxPoint x="-1370" y="2740" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="oZFwcisy6KpWWESenXAK-0" value="Vedant and Sarah&amp;nbsp;&lt;div&gt;Attack your party....&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="oZFwcisy6KpWWESenXAK-0" value="Vedant and Sarah&amp;nbsp;&lt;div&gt;Attack your party....&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-1480" y="2330" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="oZFwcisy6KpWWESenXAK-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="m9aUhqF34sa6GW5GVbDs-10" target="m9aUhqF34sa6GW5GVbDs-17">
+        <mxCell id="oZFwcisy6KpWWESenXAK-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="m9aUhqF34sa6GW5GVbDs-10" target="m9aUhqF34sa6GW5GVbDs-17" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-1420" y="2190" as="sourcePoint" />
             <mxPoint x="-1370" y="2740" as="targetPoint" />
@@ -543,28 +549,67 @@
         <mxCell id="m9aUhqF34sa6GW5GVbDs-17" value="The Squires fight you&lt;div&gt;after and Joshua says&amp;nbsp;&lt;/div&gt;&lt;div&gt;his backstory&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-1480" y="2230" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="oZFwcisy6KpWWESenXAK-3" value="The end of Abd Ranveer and Benzira&#39;s Social Story connected to the CIRCLE" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="oZFwcisy6KpWWESenXAK-3" value="The end of Abd Ranveer and Benzira&#39;s Social Story connected to the CIRCLE" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-270" y="2980" width="120" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="oZFwcisy6KpWWESenXAK-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="oZFwcisy6KpWWESenXAK-4" target="oZFwcisy6KpWWESenXAK-3">
+        <mxCell id="oZFwcisy6KpWWESenXAK-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="oZFwcisy6KpWWESenXAK-4" target="oZFwcisy6KpWWESenXAK-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="oZFwcisy6KpWWESenXAK-4" value="You discuss&amp;nbsp;&lt;div&gt;the CIRCLE,&lt;/div&gt;&lt;div&gt;the thing connecting everything...&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="oZFwcisy6KpWWESenXAK-4" value="You discuss&amp;nbsp;&lt;div&gt;the CIRCLE,&lt;/div&gt;&lt;div&gt;the thing connecting everything...&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-630" y="2930" width="180" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="oZFwcisy6KpWWESenXAK-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="oZFwcisy6KpWWESenXAK-6">
+        <mxCell id="oZFwcisy6KpWWESenXAK-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="oZFwcisy6KpWWESenXAK-6" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="30" y="3120" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="oZFwcisy6KpWWESenXAK-6" value="The SQUIRE&lt;div&gt;takes Hamza and David hostage&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="oZFwcisy6KpWWESenXAK-6" value="The SQUIRE&lt;div&gt;takes Hamza and David hostage&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-30" y="3290" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="oZFwcisy6KpWWESenXAK-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="oZFwcisy6KpWWESenXAK-9" target="m9aUhqF34sa6GW5GVbDs-3">
+        <mxCell id="oZFwcisy6KpWWESenXAK-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="oZFwcisy6KpWWESenXAK-9" target="m9aUhqF34sa6GW5GVbDs-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="oZFwcisy6KpWWESenXAK-9" value="If you defeat the Squire, you can find Moshe with the coordinates and intelligence he drops..." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="oZFwcisy6KpWWESenXAK-9" value="If you defeat the Squire, you can find Moshe with the coordinates and intelligence he drops..." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-60" y="2990" width="120" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="Faq-BriokJTAL56ZKIU4-0" value="More of the missions are now underground&lt;div&gt;all enemies are now Ambrosian&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-310" y="3360" width="210" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="Faq-BriokJTAL56ZKIU4-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Faq-BriokJTAL56ZKIU4-1" target="Faq-BriokJTAL56ZKIU4-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Faq-BriokJTAL56ZKIU4-1" value="2nd HEAVEN" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="827" y="1790" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Faq-BriokJTAL56ZKIU4-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Faq-BriokJTAL56ZKIU4-4" target="cFMcKcCD4Te3fT23bWpL-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Faq-BriokJTAL56ZKIU4-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Faq-BriokJTAL56ZKIU4-4" target="Faq-BriokJTAL56ZKIU4-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Faq-BriokJTAL56ZKIU4-4" value="1ST HEAVEN" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="707" y="1580" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Faq-BriokJTAL56ZKIU4-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Faq-BriokJTAL56ZKIU4-1" target="Faq-BriokJTAL56ZKIU4-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Faq-BriokJTAL56ZKIU4-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Faq-BriokJTAL56ZKIU4-8" target="Faq-BriokJTAL56ZKIU4-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Faq-BriokJTAL56ZKIU4-8" value="3rd Heaven" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="260" y="2390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Faq-BriokJTAL56ZKIU4-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Faq-BriokJTAL56ZKIU4-10" target="m9aUhqF34sa6GW5GVbDs-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Faq-BriokJTAL56ZKIU4-10" value="4th Heaven&lt;div&gt;Mordecai&#39;s Story Ends&lt;/div&gt;&lt;div&gt;Hod is half complete...&lt;/div&gt;&lt;div&gt;Archangel Michael is released from the heavens&amp;nbsp;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="830" y="2810" width="250" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="Faq-BriokJTAL56ZKIU4-13" value="5th Heaven&lt;div&gt;Face Haniel and the WHITE KNIGHT&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="830" y="3160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Faq-BriokJTAL56ZKIU4-14" value="7th Heaven&amp;nbsp;&lt;div&gt;Fight General Singh and Metatron&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="890" y="3270" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
