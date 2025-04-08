@@ -290,17 +290,17 @@
         <mxCell id="cFMcKcCD4Te3fT23bWpL-81" value="Ahmed&lt;div&gt;(Mini store)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="700" y="1310" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="cFMcKcCD4Te3fT23bWpL-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="cFMcKcCD4Te3fT23bWpL-83" target="cFMcKcCD4Te3fT23bWpL-86" edge="1">
+        <mxCell id="cFMcKcCD4Te3fT23bWpL-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="cFMcKcCD4Te3fT23bWpL-90" target="cFMcKcCD4Te3fT23bWpL-86" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cFMcKcCD4Te3fT23bWpL-83" value="Learn about shapeshifting" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="990" y="1260" width="120" height="60" as="geometry" />
+          <mxGeometry x="1000" y="1160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cFMcKcCD4Te3fT23bWpL-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="cFMcKcCD4Te3fT23bWpL-86" target="cFMcKcCD4Te3fT23bWpL-88" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cFMcKcCD4Te3fT23bWpL-86" value="Turn into a snake" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="1370" y="1270" width="120" height="60" as="geometry" />
+          <mxGeometry x="1534" y="1270" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cFMcKcCD4Te3fT23bWpL-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="cFMcKcCD4Te3fT23bWpL-88" target="cFMcKcCD4Te3fT23bWpL-91" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -309,16 +309,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cFMcKcCD4Te3fT23bWpL-88" value="Unlocked Nassim" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="1370" y="1410" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="cFMcKcCD4Te3fT23bWpL-90" value="Ranveer Lion&lt;div&gt;(Meet him next to the&amp;nbsp;&lt;/div&gt;&lt;div&gt;bookstore)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="1220" y="1270" width="120" height="60" as="geometry" />
+          <mxGeometry x="1534" y="1450" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Rne58Fnoz18mLakrgJ8I-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="cFMcKcCD4Te3fT23bWpL-91" target="Rne58Fnoz18mLakrgJ8I-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cFMcKcCD4Te3fT23bWpL-91" value="Unlock Camo and&amp;nbsp;&lt;div&gt;Animal Stat buffs&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="1340" y="1790" width="120" height="60" as="geometry" />
+          <mxGeometry x="1534" y="1530" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cFMcKcCD4Te3fT23bWpL-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="cFMcKcCD4Te3fT23bWpL-93" target="cFMcKcCD4Te3fT23bWpL-99" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -403,7 +400,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cFMcKcCD4Te3fT23bWpL-121" value="Reyes (Animal shifter)(Terra kinesis)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="-800" y="2338" width="120" height="100" as="geometry" />
+          <mxGeometry x="-800" y="2350" width="120" height="100" as="geometry" />
         </mxCell>
         <mxCell id="cFMcKcCD4Te3fT23bWpL-127" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="cFMcKcCD4Te3fT23bWpL-123" target="cFMcKcCD4Te3fT23bWpL-126" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -621,7 +618,7 @@
           <mxGeometry x="890" y="3270" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Rne58Fnoz18mLakrgJ8I-0" value="Learn about Frog&amp;nbsp;&lt;div&gt;power&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="870" y="1160" width="120" height="60" as="geometry" />
+          <mxGeometry x="840" y="1160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Rne58Fnoz18mLakrgJ8I-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="cFMcKcCD4Te3fT23bWpL-77" target="Rne58Fnoz18mLakrgJ8I-1">
           <mxGeometry relative="1" as="geometry">
@@ -630,16 +627,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Rne58Fnoz18mLakrgJ8I-1" value="Learn about Lion&lt;div&gt;power&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="850" y="1380" width="120" height="60" as="geometry" />
+          <mxGeometry x="1000" y="1380" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Rne58Fnoz18mLakrgJ8I-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Rne58Fnoz18mLakrgJ8I-10" target="cFMcKcCD4Te3fT23bWpL-121">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Rne58Fnoz18mLakrgJ8I-3" value="Nassim&#39;s Deal with&amp;nbsp;&lt;div&gt;the KNIGHT&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1170" y="2330" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Rne58Fnoz18mLakrgJ8I-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Rne58Fnoz18mLakrgJ8I-3" target="Rne58Fnoz18mLakrgJ8I-3">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="1310" y="1530" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Rne58Fnoz18mLakrgJ8I-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Rne58Fnoz18mLakrgJ8I-3" target="Rne58Fnoz18mLakrgJ8I-10">
           <mxGeometry relative="1" as="geometry">
@@ -648,7 +642,19 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Rne58Fnoz18mLakrgJ8I-10" value="Doctor S makes a serum out of Nassim&#39;s powers.." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="840" y="2338" width="120" height="60" as="geometry" />
+          <mxGeometry x="1190" y="2060" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Rne58Fnoz18mLakrgJ8I-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="cFMcKcCD4Te3fT23bWpL-83" target="cFMcKcCD4Te3fT23bWpL-90">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1120" y="1300" as="sourcePoint" />
+            <mxPoint x="1440" y="1300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cFMcKcCD4Te3fT23bWpL-90" value="Ranveer Lion&lt;div&gt;(Meet him next to the&amp;nbsp;&lt;/div&gt;&lt;div&gt;bookstore)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="1160" y="1270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Rne58Fnoz18mLakrgJ8I-15" value="Snake Bites you&lt;div&gt;And you meet Tov&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1350" y="1260" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
