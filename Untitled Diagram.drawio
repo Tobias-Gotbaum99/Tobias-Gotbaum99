@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.2.9">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="4161" dy="874" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3909" dy="743" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -169,7 +169,7 @@
         <mxCell id="cFMcKcCD4Te3fT23bWpL-46" value="Find Adamas" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry y="1350" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="bwIB2xqsAAEsP7TpZhDD-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="cFMcKcCD4Te3fT23bWpL-48" target="bwIB2xqsAAEsP7TpZhDD-6">
+        <mxCell id="bwIB2xqsAAEsP7TpZhDD-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="cFMcKcCD4Te3fT23bWpL-48" target="bwIB2xqsAAEsP7TpZhDD-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cFMcKcCD4Te3fT23bWpL-48" value="Give golden toilet&lt;div&gt;to Benzira&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
@@ -426,14 +426,11 @@
         <mxCell id="cFMcKcCD4Te3fT23bWpL-133" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="cFMcKcCD4Te3fT23bWpL-130" target="cFMcKcCD4Te3fT23bWpL-132" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="cFMcKcCD4Te3fT23bWpL-130" value="Meet Amy&lt;div&gt;(New character)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="-1020" y="1980" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="cFMcKcCD4Te3fT23bWpL-151" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="cFMcKcCD4Te3fT23bWpL-132" target="cFMcKcCD4Te3fT23bWpL-113" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cFMcKcCD4Te3fT23bWpL-132" value="&lt;span id=&quot;docs-internal-guid-481262fb-7fff-f746-a08a-d73a1c4a15d4&quot;&gt;&lt;span style=&quot;font-size: 10.5pt; font-family: Roboto, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; font-variant-emoji: normal; vertical-align: baseline; white-space-collapse: preserve;&quot;&gt;Terry Rhodes&lt;/span&gt;&lt;/span&gt;&lt;div&gt;&lt;span&gt;&lt;span style=&quot;font-size: 10.5pt; font-family: Roboto, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; font-variant-emoji: normal; vertical-align: baseline; white-space-collapse: preserve;&quot;&gt;(Rubber Body)&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="-1020" y="2140" width="120" height="60" as="geometry" />
+          <mxGeometry x="-860" y="2200" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cFMcKcCD4Te3fT23bWpL-137" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="cFMcKcCD4Te3fT23bWpL-134" target="cFMcKcCD4Te3fT23bWpL-136" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -459,7 +456,7 @@
         <mxCell id="cFMcKcCD4Te3fT23bWpL-140" value="Stop the Weapon&lt;div&gt;Smuggling&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-1480" y="1990" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="cFMcKcCD4Te3fT23bWpL-152" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="cFMcKcCD4Te3fT23bWpL-142" target="cFMcKcCD4Te3fT23bWpL-113" edge="1">
+        <mxCell id="cFMcKcCD4Te3fT23bWpL-152" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="cFMcKcCD4Te3fT23bWpL-130" target="cFMcKcCD4Te3fT23bWpL-113" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cFMcKcCD4Te3fT23bWpL-142" value="Cecil&amp;nbsp;&lt;div&gt;&lt;span id=&quot;docs-internal-guid-57f02bcc-7fff-72d0-c8e8-17e6397bd0b3&quot;&gt;&lt;span style=&quot;font-size: 10.5pt; font-family: Roboto, sans-serif; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; font-variant-emoji: normal; vertical-align: baseline; white-space-collapse: preserve;&quot;&gt;Wheelwright &lt;/span&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
@@ -686,43 +683,69 @@
         <mxCell id="83aC_BrJRbgaRJ_LvM2H-13" value="As a hydro sapien, you are discriminated against. Some shops won&#39;t serve you..You can&#39;t learn animal magic..." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="260" y="1950" width="120" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="bwIB2xqsAAEsP7TpZhDD-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="bwIB2xqsAAEsP7TpZhDD-0" target="cFMcKcCD4Te3fT23bWpL-1">
+        <mxCell id="bwIB2xqsAAEsP7TpZhDD-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="bwIB2xqsAAEsP7TpZhDD-0" target="cFMcKcCD4Te3fT23bWpL-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-90" y="380" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bwIB2xqsAAEsP7TpZhDD-0" value="March 1st" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="bwIB2xqsAAEsP7TpZhDD-0" value="March 1st" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-440" y="260" width="220" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="bwIB2xqsAAEsP7TpZhDD-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="bwIB2xqsAAEsP7TpZhDD-1" target="cFMcKcCD4Te3fT23bWpL-55">
+        <mxCell id="bwIB2xqsAAEsP7TpZhDD-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="bwIB2xqsAAEsP7TpZhDD-1" target="cFMcKcCD4Te3fT23bWpL-55" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bwIB2xqsAAEsP7TpZhDD-1" value="March 1st" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="bwIB2xqsAAEsP7TpZhDD-1" value="March 1st" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-420" y="730" width="220" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="bwIB2xqsAAEsP7TpZhDD-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="bwIB2xqsAAEsP7TpZhDD-2" target="cFMcKcCD4Te3fT23bWpL-41">
+        <mxCell id="bwIB2xqsAAEsP7TpZhDD-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="bwIB2xqsAAEsP7TpZhDD-2" target="cFMcKcCD4Te3fT23bWpL-41" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bwIB2xqsAAEsP7TpZhDD-2" value="March 15" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="bwIB2xqsAAEsP7TpZhDD-2" value="March 15" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-530" y="995" width="210" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="bwIB2xqsAAEsP7TpZhDD-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="bwIB2xqsAAEsP7TpZhDD-6" target="cFMcKcCD4Te3fT23bWpL-37">
+        <mxCell id="bwIB2xqsAAEsP7TpZhDD-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="bwIB2xqsAAEsP7TpZhDD-6" target="cFMcKcCD4Te3fT23bWpL-37" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bwIB2xqsAAEsP7TpZhDD-6" value="A week later" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="bwIB2xqsAAEsP7TpZhDD-6" value="A week later" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-413" y="1480" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="bwIB2xqsAAEsP7TpZhDD-8" value="March 22nd" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="bwIB2xqsAAEsP7TpZhDD-8" value="March 22nd" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-600" y="1395" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="bwIB2xqsAAEsP7TpZhDD-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="bwIB2xqsAAEsP7TpZhDD-11" target="m9aUhqF34sa6GW5GVbDs-0">
+        <mxCell id="bwIB2xqsAAEsP7TpZhDD-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="bwIB2xqsAAEsP7TpZhDD-11" target="m9aUhqF34sa6GW5GVbDs-0" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bwIB2xqsAAEsP7TpZhDD-11" value="Chapter 5 takes place over the span of 5 months&lt;div&gt;You must complete 1 mission every 21 days or 3 weeks&lt;/div&gt;&lt;div&gt;It ends in August...&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="bwIB2xqsAAEsP7TpZhDD-11" value="Chapter 5 takes place over the span of 5 months&lt;div&gt;You must complete 1 mission every 21 days or 3 weeks&lt;/div&gt;&lt;div&gt;It ends in August...&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-1110" y="1360" width="370" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="bwIB2xqsAAEsP7TpZhDD-13" value="Discover Maleko&lt;div&gt;1-9&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="bwIB2xqsAAEsP7TpZhDD-13" value="Discover Maleko&lt;div&gt;1-9&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-80" y="1560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tWEslifOGPGsIGrZ7Wfp-0" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="cFMcKcCD4Te3fT23bWpL-142" target="cFMcKcCD4Te3fT23bWpL-130">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1130" y="2110" as="sourcePoint" />
+            <mxPoint x="-140" y="2278" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cFMcKcCD4Te3fT23bWpL-130" value="Meet Amy&lt;div&gt;(New character)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="-1040" y="2060" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tWEslifOGPGsIGrZ7Wfp-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="tWEslifOGPGsIGrZ7Wfp-1" target="tWEslifOGPGsIGrZ7Wfp-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-900" y="2220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tWEslifOGPGsIGrZ7Wfp-1" value="Terry captures you&lt;div&gt;and stuffs you in his rubber body..&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-1040" y="2150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tWEslifOGPGsIGrZ7Wfp-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="tWEslifOGPGsIGrZ7Wfp-2" target="tWEslifOGPGsIGrZ7Wfp-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tWEslifOGPGsIGrZ7Wfp-2" value="Lik e most ambrosians,&lt;div&gt;he can kill to gain power and grow.&lt;/div&gt;&lt;div&gt;He dissolves your body, extrudes corrosive poison, melting your body, he then absorbs it...&lt;/div&gt;&lt;div&gt;(Vedant but murder..)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-1250" y="2240" width="120" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="tWEslifOGPGsIGrZ7Wfp-5" value="You must play as Ranveer, bc Terry is weak to fire.." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-1040" y="2270" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
